@@ -2,7 +2,7 @@
 A web app that allows users to become their own dancing pumpkin character using machine learning models!
 <a href="https://jlizardo019.github.io/Generative-Art/">Try it out!</a>
 
-<img src="i-am-happy.png" alt="screenshot of image generated with wep app" width="40%" />
+<img src="pumpkin.png" alt="screenshot of web app" width="40%" />
 
 ## Summary
 A web app that allows users to become their own dancing pumpkin character by using ml5.js Posenet model to detect your body from your webcam and move the character on the canvas. The character scales according to the distance between the user and the camera by measuring the distance between the user's eyes. I reduced the noise introduced by the webcam by linear interpolation of the key points. Therefore, there is a slight lag in the responsiveness in order to make the movements look more smooth.
