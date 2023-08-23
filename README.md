@@ -1,6 +1,6 @@
 # Dancing-Halloween-Character
 A web app that allows users to become their own dancing pumpkin character using machine learning models!
-<a href="https://jlizardo019.github.io/Generative-Art/">Try it out!</a>
+<a href="https://dancing-pumpkin-character.glitch.me/">Try it out!</a>
 
 <img src="pumpkin.png" alt="screenshot of web app" width="40%" />
 
